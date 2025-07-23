@@ -35,7 +35,7 @@
 ## 📍 진행 사항
 | 주차 | 알고리즘 유형 | 문제 제목 | happylilly | subin |
 | :-: | :-: | :-: | :-: | :-: |
-| Week1 | 수학 | 2869번: 달팽이는 올라가고 싶다<br/>10826번: 피보나치 수 4<br/>2824번: 최대공약수<br/>1929번: 소수 구하기<br/>15649번: N과 M (1)<br/>5347번: LCM<br/>1759번: 암호 만들기 |
+| Week1 | 수학 | [2869번: 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)<br/>[10826번: 피보나치 수 4](https://www.acmicpc.net/problem/10826)<br/>[2824번: 최대공약수](https://www.acmicpc.net/problem/2824)<br/>[1929번: 소수 구하기](https://www.acmicpc.net/problem/1929)<br/>[15649번: N과 M (1)](https://www.acmicpc.net/problem/15649)<br/>[5347번: LCM](https://www.acmicpc.net/problem/5347)<br/>[1759번: 암호 만들기](https://www.acmicpc.net/problem/1759) |
 <br/>
 
 | 업로드 횟수 |	표기 |
