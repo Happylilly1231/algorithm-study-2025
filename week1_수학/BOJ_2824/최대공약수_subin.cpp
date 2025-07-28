@@ -1,6 +1,5 @@
 /*
     알고리즘 : 수학
-    시간 복잡도 : O(nloglogn)
     참고 링크 : map 사용법(https://life-with-coding.tistory.com/305)
     아이디어 : n개의 양의 정수와 m개의 양의 정수를 각각 소인수분해하여
               각 소수의 등장 횟수를 map에 저장한 후,
