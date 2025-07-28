@@ -16,7 +16,7 @@ int get_gcd(int a, int b);  // 유클리드 호제법 최대 공약수 구하는
 int main() {
     int N, M, gcd;
     long long int gcd_result = 1;  // 최대 공약수 결과
-    bool isBigNumber;              // 실제 결과값이 9자리보다 큰지 여부
+    bool isBigNumber = false;      // 실제 결과값이 9자리보다 큰지 여부
 
     // N개 입력 받아서 배열 A에 저장
     cin >> N;
@@ -59,6 +59,10 @@ int main() {
         printf("%09d", gcd_result);  // 9자리에서 빈 앞자리 0으로 채우기
     else                             // 9자리보다 작으면
         cout << gcd_result;          // 그냥 출력
+
+    // 동적할당 메모리 해제
+    delete[] arr_A;
+    delete[] arr_B;
 
     return 0;
 }
