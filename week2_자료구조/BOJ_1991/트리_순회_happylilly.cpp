@@ -1,5 +1,13 @@
+/*
+알고리즘 : 자료구조 - 트리
+시간 복잡도 :
+    - 탐색: O(n)
+    - 삽입/삭제: O(n)
+참고 링크 : x
+아이디어 : Node 구조체를 만들고, 삽입할 때는 먼저 해당 값을 가진 노드를 찾은 다음에 삽입한다. 재귀로 왼쪽 자식 오른쪽 자식을 순회한다.
+*/
+
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
@@ -28,7 +36,7 @@ int main()
 
     cin >> N;
 
-    Node *root = new Node('A');
+    Node *root = new Node('A'); // 루트 설정
 
     for (int i = 0; i < N; i++)
     {
