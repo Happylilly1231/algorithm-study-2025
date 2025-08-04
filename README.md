@@ -36,6 +36,7 @@
 | 주차 | 알고리즘 유형 | 문제 제목 | happylilly | subin |
 | :-: | :-: | :-: | :-: | :-: |
 | Week1 | 수학 | [2869번: 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)<br/>[10826번: 피보나치 수 4](https://www.acmicpc.net/problem/10826)<br/>[2824번: 최대공약수](https://www.acmicpc.net/problem/2824)<br/>[1929번: 소수 구하기](https://www.acmicpc.net/problem/1929)<br/>[15649번: N과 M (1)](https://www.acmicpc.net/problem/15649)<br/>[5347번: LCM](https://www.acmicpc.net/problem/5347)<br/>[1759번: 암호 만들기](https://www.acmicpc.net/problem/1759) | 4️⃣<br/> (개인 프로젝트) | 3️⃣<br/> (가족여행) |
+| Week2 | 자료구조 | [10828번: 스택](https://www.acmicpc.net/problem/10828)<br/>[10845번: 큐](https://www.acmicpc.net/problem/10845)<br/>[10866번: 덱](https://www.acmicpc.net/problem/10866)<br/>[11279번: 최대 힙](https://www.acmicpc.net/problem/11279)<br/>[1991번: 트리 순회](https://www.acmicpc.net/problem/1991)<br/>[1068번: 트리](https://www.acmicpc.net/problem/1068)<br/>[1764번: 듣보잡](https://www.acmicpc.net/problem/1764) | ✅ | - |
 <br/>
 
 | 업로드 횟수 |	표기 |
