@@ -1,7 +1,6 @@
 /*
     알고리즘 : 자료구조 - 트리
     시간복잡도 : O(n)
-    참고링크 : switch에서 문자열 사용하기(https://velog.io/@dnr6054/C-switch%EC%97%90%EC%84%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-feat.-constexpr)
     아이디어 : C++ STL의 map을 이용해 각 노드를 key로,
               make_pair로 왼쪽 자식 노드, 오른쪽 자식 노드를 저장
 */
