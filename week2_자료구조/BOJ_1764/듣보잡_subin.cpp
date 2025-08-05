@@ -29,8 +29,7 @@ int main()
     while (m--)
     {
         cin >> name;
-        name_cnt[name]++;
-        if (name_cnt[name] == 2)
+        if (++name_cnt[name] == 2)
             cnt++;
     }
 
