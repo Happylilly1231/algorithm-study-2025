@@ -40,6 +40,8 @@
 | Week3 | 재귀 | [10872번: 팩토리얼](https://www.acmicpc.net/problem/10872)<br/>[10870번: 피보나치 수 5](https://www.acmicpc.net/problem/10870)<br/>[17478번: 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)<br/>[11729번: 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)<br/>[2447번: 별 찍기 - 10](https://www.acmicpc.net/problem/2447) | 4️⃣ | 4️⃣ |
 | Week4 | DP | [10826번: 피보나치 수 4](https://www.acmicpc.net/problem/10826)<br/>[2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)<br/>[1912번: 연속합](https://www.acmicpc.net/problem/1912)<br/>[1149번: RGB거리](https://www.acmicpc.net/problem/1149)<br/>[11054번: 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | ✅ | ✅ |
 | Week5 | 그래프(DFS/BFS) | [2606번: 바이러스](https://www.acmicpc.net/problem/2606)<br/>[1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)<br/>[2667번: 단지번호붙이기](https://www.acmicpc.net/problem/2667)<br/>[2178번: 미로 탐색](https://www.acmicpc.net/problem/2178)<br/>[7576번: 토마토](https://www.acmicpc.net/problem/7576) | ✅ | ✅ |
+| Week6 | 최단경로 | [1753번: 최단경로](https://www.acmicpc.net/problem/1753)<br/>[1504번: 특정한 최단 경로](https://www.acmicpc.net/problem/1504)<br/>[11657번: 타임머신](https://www.acmicpc.net/problem/11657)<br/>[11404번: 플로이드](https://www.acmicpc.net/problem/11404)<br/>[1854번: K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | ✅ | - |
+| Week7 | 이분탐색 | [1920번: 수 찾기](https://www.acmicpc.net/problem/1920)<br/>[1654번: 랜선 자르기](https://www.acmicpc.net/problem/1654)<br/>[2110번: 공유기 설치](https://www.acmicpc.net/problem/2110)<br/>[1300번: K번째 수](https://www.acmicpc.net/problem/1300) | - | - |
 <br/>
 
 | 업로드 횟수 |	표기 |
