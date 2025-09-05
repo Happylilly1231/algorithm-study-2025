@@ -6,7 +6,7 @@
         - https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234427842&proxyReferer=https:%2F%2Fwww.google.com%2F
         - https://ansohxxn.github.io/algorithm/floyd/
 아이디어:
-    - 전체-쌍(Single-Source) 문제이므로 플로이드 워셜 알고리즘을 사용한다.
+    - 전체-쌍(All-Pair) 문제이므로 플로이드 워셜 알고리즘을 사용한다.
         - 플로이드 워셜 알고리즘
             1. 최소 비용 벡터 값을 가중치 벡터 값으로 초기화
             2. 한 정점을 거쳐가는 노드로 삼고, 모든 가중치와 거쳐갈 때 비용을 비교하여 최소 비용 갱신 -> 이를 모든 정점에 걸쳐 반복
